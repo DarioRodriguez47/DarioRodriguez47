@@ -51,13 +51,13 @@
 ### 🎯 Metas y Habilidades
 
 * **Metas:** Colaborar en proyectos de código abierto y ganar experiencia en un entorno que promueva el aprendizaje continuo.
-* [cite_start]**Metodologías:** Experiencia en metodologías ágiles como **Scrum** y **Extreme Programming (XP)**[cite: 31].
-* [cite_start]**Habilidades Blandas:** Trabajo en equipo, resolución de problemas y comunicación efectiva[cite: 41, 44, 46].
+* **Metodologías:** Experiencia en metodologías ágiles como **Scrum** y **Extreme Programming (XP)**.
+* **Habilidades Blandas:** Trabajo en equipo, resolución de problemas y comunicación efectiva.
 
 ---
 
 ### Conecta conmigo:
 
 * **LinkedIn:** https://www.linkedin.com/help/linkedin/answer/a548467/-como-creo-un-buen-perfil-de-linkedin-?lang=es
-* [cite_start]**Email:** lenin.rodrguez@epn.edu.ec [cite: 8]
-* [cite_start]**GitHub:** https://github.com/DarioRodriguez47 [cite: 11]
+* **Email:** lenin.rodrguez@epn.edu.ec
+* **GitHub:** https://github.com/DarioRodriguez47
