@@ -10,11 +10,10 @@
 
 ### 🚀 Mis Métricas de GitHub
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DarioRodriguez47&theme=radical)
-
-![Mi GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarioRodriguez47&show_icons=true&theme=radical)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioRodriguez47&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DarioRodriguez47&show_icons=true&theme=radical" alt="GitHub Stats" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarioRodriguez47&layout=compact&theme=radical" alt="Most Used Languages" width="380" />
+</p>
 
 ---
 
