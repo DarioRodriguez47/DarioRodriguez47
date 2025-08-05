@@ -2,14 +2,14 @@
 
 ### Software Engineer y Estudiante en la EPN.
 
-[cite_start]Poseo experiencia en desarrollo web, administración de redes y soporte técnico, con un enfoque en la resolución eficiente de problemas y la creación de software de calidad[cite: 24, 25, 26, 27].
+Poseo experiencia en desarrollo web, administración de redes y soporte técnico, con un enfoque en la resolución eficiente de problemas y la creación de software de calidad.
 
 ---
 
 ### 🚀 Proyectos Destacados
 
-* [cite_start]**Desarrollador en Audit & Co. Latam:** Desarrollé el frontend de aplicaciones para auditoría contable, manejé bases de datos, integré APIs y apliqué el patrón de diseño MVC para soluciones escalables[cite: 74, 75, 76, 77].
-* [cite_start]**Analista de Sistemas en Clínica Pasteur:** Brindé soporte técnico de primer nivel, realicé mantenimiento de hardware, configuré redes (OpenVPN) y gestioné sistemas operativos Windows y Linux[cite: 83, 84, 85, 87].
+* **Desarrollador en Audit & Co. Latam:** Desarrollé el frontend de aplicaciones para auditoría contable, manejé bases de datos, integré APIs y apliqué el patrón de diseño MVC para soluciones escalables.
+* **Analista de Sistemas en Clínica Pasteur:** Brindé soporte técnico de primer nivel, realicé mantenimiento de hardware, configuré redes (OpenVPN) y gestioné sistemas operativos Windows y Linux.
 
 ---
 
