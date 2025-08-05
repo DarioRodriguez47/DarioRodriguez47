@@ -56,8 +56,4 @@ Poseo experiencia en desarrollo web, administración de redes y soporte técnico
 
 ---
 
-### Conecta conmigo:
 
-* **LinkedIn:** https://www.linkedin.com/help/linkedin/answer/a548467/-como-creo-un-buen-perfil-de-linkedin-?lang=es
-* **Email:** lenin.rodrguez@epn.edu.ec
-* **GitHub:** https://github.com/DarioRodriguez47
