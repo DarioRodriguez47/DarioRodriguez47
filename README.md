@@ -9,7 +9,7 @@ Poseo experiencia en desarrollo web, administración de redes y soporte técnico
 ### 🚀 Proyectos Destacados
 
 * **Desarrollador en Audit & Co. Latam:** Desarrollé el frontend de aplicaciones para auditoría contable, manejé bases de datos, integré APIs y apliqué el patrón de diseño MVC para soluciones escalables.
-* **Analista de Sistemas en Clínica Pasteur:** Brindé soporte técnico de primer nivel, realicé mantenimiento de hardware, configuré redes (OpenVPN) y gestioné sistemas operativos Windows y Linux.
+* **Analista de Sistemas en Clínica Pasteur:** Brindé soporte técnico de primer nivel, realicé mantenimiento de hardware, configuré redes (OpenVPN) y gestioné sistemas operativos Windows y Linux
 
 ---
 
