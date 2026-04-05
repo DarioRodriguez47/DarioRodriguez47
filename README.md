@@ -1,5 +1,5 @@
 # ¡Hola! 👋 Soy Lenin Rodríguez
-
+ 
 ### Software Engineer.
 
 Poseo experiencia en desarrollo web, administración de redes y soporte técnico, con un enfoque en la resolución eficiente de problemas y la creación de software de calidad.
